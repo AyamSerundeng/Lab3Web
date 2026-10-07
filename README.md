@@ -1,4 +1,4 @@
-# Lab 3 - CSS Dasar
+# Lab3Web - CSS Dasar
 
 **Nama:** Khairi Ramadhan Yudhatama (312510099)  
 **Kelas:** Pemrograman Web (I251A)  
@@ -74,7 +74,8 @@ Setelah file dibuat, buka di browser untuk melihat hasilnya.
 
 <!-- Upload screenshot di sini -->
 
-![Screenshot Langkah 1](./screenshots/langkah1.png)
+<img width="941" height="479" alt="Screenshot 2026-10-07 072715" src="https://github.com/user-attachments/assets/d5c53436-a135-46b3-8428-e29a1c9ca7ec" />
+
 
 ---
 
@@ -119,7 +120,8 @@ Simpan perubahan, lalu refresh browser untuk melihat hasilnya.
 
 <!-- Upload screenshot di sini -->
 
-![Screenshot Langkah 2](./screenshots/langkah2.png)
+<img width="937" height="402" alt="Screenshot 2026-10-07 073155" src="https://github.com/user-attachments/assets/d01f9843-d437-4c1b-b179-c44ea9172198" />
+
 
 ---
 
@@ -140,7 +142,8 @@ Inline CSS ditulis langsung di dalam atribut `style` pada elemen HTML. Cara ini 
 
 <!-- Upload screenshot di sini -->
 
-![Screenshot Langkah 3](./screenshots/langkah3.png)
+<img width="949" height="388" alt="Screenshot 2026-10-07 075207" src="https://github.com/user-attachments/assets/ee3b9bea-8dbe-425e-83c3-efb8729c0619" />
+
 
 ---
 
@@ -151,7 +154,8 @@ Inline CSS ditulis langsung di dalam atribut `style` pada elemen HTML. Cara ini 
 Buat file baru dengan nama `style_eksternal.css` dan isikan kode berikut:
 
 ```css
-nav {
+nav {<img width="949" height="388" alt="Screenshot 2026-10-07 075207" src="https://github.com/user-attachments/assets/efdbea69-2e94-47e4-b3f7-673cffd92f77" />
+
   background: #20a759;
   color: #fff;
   padding: 10px;
@@ -192,7 +196,8 @@ Simpan dan refresh browser.
 
 <!-- Upload screenshot di sini -->
 
-![Screenshot Langkah 4](./screenshots/langkah4.png)
+<img width="957" height="550" alt="Screenshot 2026-10-07 075651" src="https://github.com/user-attachments/assets/e38f79e4-84fe-4a75-8569-50523fc679e4" />
+
 
 ---
 
@@ -242,6 +247,7 @@ Simpan dan refresh browser.
 
 <!-- Upload screenshot di sini -->
 
-![Screenshot Langkah 5](./screenshots/langkah5.png)
+<img width="955" height="529" alt="Screenshot 2026-10-07 075838" src="https://github.com/user-attachments/assets/bce9514c-2bbb-4c72-9c29-aa1bce1aee36" />
+
 
 ---
